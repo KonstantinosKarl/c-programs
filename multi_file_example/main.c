@@ -6,5 +6,6 @@
 // - Για debug: View / Run, επιλέγουμε "All files in directory: compile and debug", και F5
 
 int main() {
+    printf("gghd\n");
     foo();
 }
